@@ -1,0 +1,133 @@
+[
+  {
+    "id": "p001",
+    "title": "Mouse Inalámbrico Logitech",
+    "description": "Mouse ergonómico con conexión Bluetooth",
+    "code": "MOU123",
+    "price": 160,
+    "status": true,
+    "stock": 8,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/mouse1.jpg"
+    ]
+  },
+  {
+    "id": "p002",
+    "title": "Teclado Mecánico RGB",
+    "description": "Teclado con retroiluminación multicolor y switches azules",
+    "code": "KEY456",
+    "price": 89.99,
+    "status": true,
+    "stock": 75,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/keyboard1.jpg"
+    ]
+  },
+  {
+    "id": "p003",
+    "title": "Monitor 24'' Full HD",
+    "description": "Monitor de 24 pulgadas con resolución 1920x1080",
+    "code": "MON789",
+    "price": 149.99,
+    "status": true,
+    "stock": 45,
+    "category": "Monitores",
+    "thumbnails": [
+      "/images/monitor1.jpg"
+    ]
+  },
+  {
+    "id": "p004",
+    "title": "Auriculares Inalámbricos",
+    "description": "Auriculares con cancelación de ruido y micrófono",
+    "code": "HEAD111",
+    "price": 59.99,
+    "status": true,
+    "stock": 60,
+    "category": "Audio",
+    "thumbnails": [
+      "/images/headphones1.jpg",
+      "/images/headphones2.jpg"
+    ]
+  },
+  {
+    "id": "p005",
+    "title": "Silla Gamer Reclinable",
+    "description": "Silla ergonómica para gamers con soporte lumbar",
+    "code": "CHA222",
+    "price": 199.99,
+    "status": true,
+    "stock": 30,
+    "category": "Muebles",
+    "thumbnails": [
+      "/images/chair1.jpg"
+    ]
+  },
+  {
+    "id": "p006",
+    "title": "Impresora HP LaserJet",
+    "description": "Impresora láser monocromática con conectividad Wi-Fi",
+    "code": "PRN333",
+    "price": 120,
+    "status": true,
+    "stock": 20,
+    "category": "Impresoras",
+    "thumbnails": [
+      "/images/printer1.jpg"
+    ]
+  },
+  {
+    "id": "p007",
+    "title": "Monitor Samsung",
+    "description": "Monitor LED 24 pulgadas",
+    "code": "SAMS001",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "Monitores",
+    "thumbnails": [
+      "/images/monitor1.jpg"
+    ]
+  },
+  {
+    "id": "p008",
+    "title": "Teclado Logitech",
+    "description": "Teclado mecánico con retroiluminación RGB",
+    "code": "LOGI002",
+    "price": 80,
+    "status": true,
+    "stock": 25,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/keyboard1.jpg"
+    ]
+  },
+  {
+    "id": "p009",
+    "title": "Mouse Razer",
+    "description": "Mouse gaming con sensor óptico de alta precisión",
+    "code": "RAZER003",
+    "price": 60,
+    "status": true,
+    "stock": 15,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/mouse1.jpg"
+    ]
+  },
+  {
+    "id": "p010",
+    "title": "Auriculares Sony",
+    "description": "Auriculares inalámbricos con cancelación de ruido",
+    "code": "SONY004",
+    "price": 200,
+    "status": true,
+    "stock": 5,
+    "category": "Audio",
+    "thumbnails": [
+      "/images/headphones1.jpg"
+    ]
+  }
+]
