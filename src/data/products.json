@@ -119,15 +119,13 @@
   },
   {
     "id": "p010",
-    "title": "Auriculares Sony",
-    "description": "Auriculares inalámbricos con cancelación de ruido",
-    "code": "SONY004",
-    "price": 200,
+    "title": "Auriculares",
+    "description": "Sony",
+    "code": "77101",
+    "price": 20,
     "status": true,
-    "stock": 5,
-    "category": "Audio",
-    "thumbnails": [
-      "/images/headphones1.jpg"
-    ]
+    "stock": 10,
+    "category": "Accesorios",
+    "thumbnails": []
   }
 ]
